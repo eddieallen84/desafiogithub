@@ -1,4 +1,4 @@
-![image](https://github.com/eddieallen84/desafiogithub/assets/142750444/3d7fde32-a920-407c-a7c1-9e4aacd5e983)<img src="[https://media.licdn.com/dms/image/D4D03AQFVKPpzfjZVfg/profile-displayphoto-shrink_800_800/0/1695951597618?e=1702512000&v=beta&t=CZbi5TzkElQzdYs31k24_RB1SW3XiRAdAOYj1XLxIWQ](https://zippyimage.com/image/iAQNKt)" alt="drawing" width="100" align="top-right"/>
+![image](https://github.com/eddieallen84/desafiogithub/assets/142750444/3d7fde32-a920-407c-a7c1-9e4aacd5e983)<img src="[https://media.licdn.com/dms/image/D4D03AQFVKPpzfjZVfg/profile-displayphoto-shrink_800_800/0/1695951597618?e=1702512000&v=beta&t=CZbi5TzkElQzdYs31k24_RB1SW3XiRAdAOYj1XLxIWQ](https://zippyimage.com/image/iAQNKt)" alt="drawing" height="100px" align="top-right"/>
 
 # Eddie Allen
 
