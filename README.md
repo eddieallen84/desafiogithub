@@ -1,4 +1,4 @@
-<img src="https://bg-so-1.zippyimage.com/2023/12/04/2b7b45e36176421c69e7fb91ebbb3a7a.jpg" alt="avatar" width="42" align="top-right"/>
+<img src="https://bg-so-1.zippyimage.com/2023/12/04/2b7b45e36176421c69e7fb91ebbb3a7a.jpg" alt="avatar" width="60" align="top-right"/>
 
 # Eddie Allen
 
