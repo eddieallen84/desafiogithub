@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D03AQHm_iv0Pi4PlQ/profile-displayphoto-shrink_800_800/0/1699656942614?e=1707350400&v=beta&t=TgNHhwwJslP6IWYLCGRV6GN3fnkRcW808AX5CNZan2Q" alt="avatar" widht="100" align="top-right"/>
+<img src="https://zippyimage.com/image/iAQo6q" alt="avatar" widht="100" align="top-right"/>
 
 # Eddie Allen
 
